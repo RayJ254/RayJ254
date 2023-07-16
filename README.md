@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RayJ254
+- 👀 I’m interested in software, app, and web dev.
+- 🌱 I’m currently learning mobile dev.
+- 💞️ I’m looking to collaborate on the above projects
