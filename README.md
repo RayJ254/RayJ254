@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Raymondlikono@gmail.com**
 
-- ⚡ Fun fact **I have crazy OCD, don't move nothing.**
+- ⚡ Fun fact **I have crazy OCD, don't move nothing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
