@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond John</h1>
 <h3 align="center">A passionate developer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on **multiple website backends**
+- 🔭 I’m currently working on **multiple cool projects**
 
 - 🌱 I’m currently learning **app dev. courses**
 
