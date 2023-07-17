@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Raymond John
-- 👀 I’m interested in software, app, and web dev.
-- 🌱 I’m currently learning mobile app dev.
-- 💞️ I’m looking to collaborate on the above projects
+
